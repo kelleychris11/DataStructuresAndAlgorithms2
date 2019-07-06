@@ -1,0 +1,1 @@
+g++ Manager.cpp customer.cpp main.cpp movie.cpp movielist.cpp hashtable.cpp -o movieStore
